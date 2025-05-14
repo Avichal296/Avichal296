@@ -10,9 +10,7 @@
 <h2>Skills</h2>
 <br>
 <h1>Socials:</h1>
-<div>![image](https://github.com/user-attachments/assets/e5066bf6-66cc-43a4-93fe-96b2495d9f8c)
-bp</div>
-
+<a><img src="https://logowik.com/content/uploads/images/twitter-x5265.logowik.com.webp"></a>
 <br>
 <h2>Techstack:</h2>
 <br>
