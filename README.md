@@ -17,7 +17,7 @@
 <br>
 <h2>Languages</h2>
 <div>
-<div>![image](https://github.com/user-attachments/assets/6b3512cb-2f6e-4c05-97ef-a3855f448b4a)
+<div> <img src="https://skillicons.dev/icons?i=all">
 </div>
 <div>![image](https://github.com/user-attachments/assets/313bd26e-a4fd-4814-8992-4a1b24c77212)
 </div>
