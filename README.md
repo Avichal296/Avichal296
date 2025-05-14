@@ -10,7 +10,7 @@
 <h2>Skills</h2>
 <br>
 <h1>Socials:</h1>
-<a><img style:" max-width:3%;" src="https://logowik.com/content/uploads/images/twitter-x5265.logowik.com.webp"></a>
+<a><img  src="https://logowik.com/content/uploads/images/twitter-x5265.logowik.com.webp" style = "max-width:3%;"></a>
 <br>
 <h2>Techstack:</h2>
 <br>
