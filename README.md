@@ -10,7 +10,7 @@
 <h2>Skills</h2>
 <br>
 <h1>Socials:</h1>
-<a href="https://x.com/avichalshrivas4">![image](https://github.com/user-attachments/assets/bc88460a-84d6-46e3-8d5c-c08fd04820a2)
+<a href="https://x.com/avichalshrivas4"> <img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png">
 </a>
 <br>
 <h2>Techstack:</h2>
