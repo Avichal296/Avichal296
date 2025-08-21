@@ -5,5 +5,5 @@
 <li>✉️ You can contact me at <a>avichalshrivastava2006@gmail.com</a></li>
 <li> 🚀 I recently participated as a opensource contributor in Circuitverse</li>
 <li> 🤝 I am open to collaborate on Mern stack and devops  as well in web3 </li>
-<li> learning web3</li>
+<li> Looking for freelance gigs.</li>
 <br>
