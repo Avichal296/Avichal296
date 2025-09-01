@@ -6,5 +6,6 @@
 <li> 🚀 I recently participated as a opensource contributor in Circuitverse</li>
 <li> 🤝 I am open to collaborate on Full stack and devops  as well in web3 </li>
 <li> Looking for freelance gigs and open for work.</li>
+<li> Actively looking for the internship or job , would love to provide some value if gets a chance to work together </li>
 
 <br>
