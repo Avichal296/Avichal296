@@ -1,4 +1,4 @@
-<h1>Hi👋  I'm  Avichal shrivastava  </h1>
+<h1>Hi👋 I'm  Avichal shrivastava  </h1>
 <br>
 <h2>Full stack developer</h2>
 
