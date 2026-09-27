@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This side Avichal shrivastava 
 =======================================================================================================================================
 
-Full-Stack Engineer ,AI
+Full-Stack Engineer 
 ---------------------
 
 <h4> I am a Full stack developer ,who is building ,learning , experimenting  new things and the solving the real world problems with the code . I am a enthusiatic developer who like to connect  with the tech enthusiast people . I am open for collaboration .</h4>
