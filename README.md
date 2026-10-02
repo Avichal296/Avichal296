@@ -13,7 +13,6 @@ Full-Stack Engineer
 <li> </li> -->
 
 * ✉️  You can contact me at [avichalshrivastava2006@gmail.com](mailto:avichalshrivastava2006@gmail.com)
-<!-- <li> </li> -->
 * 🚀 I recently participated as a opensource contributor in CircuitVerse
 * 🤝  I am open to collaborate on Full stack and devops  as well in web3 
 * Learning web3
