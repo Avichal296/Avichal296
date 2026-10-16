@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎤 [Intervona (AI Interviewer)](https://github.com/Avichal296/Intervona)
+### 🎤 [Intervona](https://github.com/Avichal296/Intervona)
 Full-stack AI interview platform with real-time conversational interviews, resume-aware question generation and coding assessments.
 - AI response time under **2 seconds**, **95+ Lighthouse** performance score
 - Turborepo monorepo setup cut build times by **35%**
