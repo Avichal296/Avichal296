@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · React · TypeScript · Node.js</h3>
 
 <p align="center">
-  B.Tech CSE (AIML) student at LNCT Bhopal. I build full-stack products with TypeScript, React and Node.js,
+  B.Tech CSE (AIML) . I build full-stack products with TypeScript, React and Node.js,
   including AI-powered apps with real-time features. GSoC '25 finalist at CircuitVerse, 400+ LeetCode problems solved.
 </p>
 
@@ -10,7 +10,6 @@
   <a href="mailto:avichalshrivastava2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/avichalshrivas4"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 <p align="center">
