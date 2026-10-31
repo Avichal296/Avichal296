@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Avichal Shrivastava</h1>
+<h1 align="center">Hi 👋 , I'm Avichal Shrivastava</h1>
 <h3 align="center">Full-Stack Developer · React · TypeScript · Node.js</h3>
 
 <p align="center">
