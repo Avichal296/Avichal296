@@ -89,18 +89,15 @@ Built at the **BNB Chain 36-Hour Hackathon (IIT Delhi)**, shortlisted among 2000
 ---
 
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Avichal296&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Avichal's GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avichal296&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Avichal's Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avichal296&theme=tokyonight" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avichal296&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
 
