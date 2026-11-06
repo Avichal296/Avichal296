@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer · React · TypeScript · Node.js</h3>
 
 <p align="center">
-  B.Tech CSE (AIML) . I build full-stack products with TypeScript, React and Node.js,
+  B.Tech CSE (AIML) . I build full stack products with TypeScript, React and Node.js,
   including AI powered apps with real time features. GSoC '25 finalist at CircuitVerse, 400+ LeetCode problems solved.
 </p>
 
