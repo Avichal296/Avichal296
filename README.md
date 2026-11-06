@@ -21,7 +21,7 @@
 ## 🚀 Featured Projects
 
 ### 🎤 [Intervona](https://github.com/Avichal296/Intervona)
-Full-stack AI interview platform with real-time conversational interviews, resume-aware question generation and coding assessments.
+Full stack AI interview platform with real time conversational interviews, resume aware question generation and coding assessments.
 - AI response time under **2 seconds**, **95+ Lighthouse** performance score
 - Turborepo monorepo setup cut build times by **35%**
 - OpenAI + Gemini generate **100+ adaptive questions**, automated evaluation and feedback analytics
@@ -48,11 +48,11 @@ Built at the **BNB Chain 36-Hour Hackathon (IIT Delhi)**, shortlisted among 2000
 
 **Frontend Developer Intern, Conductor** (Remote, Sep – Oct 2025)
 - Built scalable frontend with React, Redux and Cloudscape Design System for an organization management platform
-- Developed role-based dashboards with multi-section workflows
+- Developed role based dashboards with multi section workflows
 
 **Open Source Contributor, CircuitVerse** (Dec 2024 – May 2025)
-- **16 merged PRs** across UI, simulator and Verilog-related features (Rails, Vue.js, Bootstrap 5)
-- Added RTL support for multilingual accessibility, fixed search, UI consistency and lazy-loading issues
+- **16 merged PRs** across UI, simulator and Verilog related features (Rails, Vue.js, Bootstrap 5)
+- Added RTL support for multilingual accessibility, fixed search, UI consistency and lazy loading issues
 - 🏆 **GSoC '25 finalist**, shortlisted among 35 global contributors
 
 ---
